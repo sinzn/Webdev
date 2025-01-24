@@ -1,0 +1,18 @@
+What is Html with some visual shortcut code 
+
+HTML -- Hypertext markup language early time html is just for the publish paper how can i put headline and title were put on web for every one can read that 
+
+Starting tag -- <html>
+Ending tag -- </html>
+Heading tag -- <h1></h1>
+
+Hierchy of html and how browser will work 
+
+Html are divided into two part head and body
+
+<head> are contain metadata 
+	<title> <fabicon>
+
+<Body> are the actual data of the webpage 
+	<h1></h1> <p></p> 
+

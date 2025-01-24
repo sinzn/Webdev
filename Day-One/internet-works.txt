@@ -1,0 +1,49 @@
+How Does internet works
+Connecting One computer to another computer we will learn about the basic of the internet your computer to my computers 
+we are going to some concept 
+
+let assume want to reached out to the chaicode.com
+
+# IP address(Hostname) DNS ISP host
+
+# how do i connect with them 
+
+# User request is going to the DNS in the form of ip address 
+  after that dns will connect IP to hostname and hostname to
+  ip address these concept is called internet and working 
+
+# This  Concept where define s the server client concept 
+
+# godady is the domain provider 
+
+# if my computer having IP I can host a website but problem is 
+  that you can run a computer all of time up and running. them 
+  cloud are come in to the pictures up and running all of time
+
+# what is request cDn, how respose, how quickly website will serve. what is dat aof my side what is payload it all are jurgon are 
+
+ Laptop -> 192.X.X.X -> ISP -> DNS -> WWW -> Chicode.com
+
+
+
+Cuouple of knowledge 
+
+what happen on the web dev
+ 
+Database  -> Role
+	     Type
+		works
+
+What is Frontend and backend and how its works 
+
+Jump in the how web are working 
+
+# Laptop Browser Database : (Html, Css, Js) --> (SERVER)
+ 
+Making a request using browser(Chaicode.com)
+
+Step 1 : Sent Html(Hypertext markup language) + CSs
+Step 2 : After that JS will triger (Funtionallity of webpage)
+	 browser to webserver where the forntend/backend
+         engineer works 
+Step 3:  
